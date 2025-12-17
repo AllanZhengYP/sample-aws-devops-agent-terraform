@@ -35,7 +35,7 @@ This configuration creates the following resources:
 1. **Clone and Configure**
    ```bash
    git clone <this-repo>
-   cd aws-devops-agent-terraform
+   cd sample-aws-devops-agent-terraform
    ```
 
 2. **Run Automated Deployment**
@@ -67,7 +67,7 @@ This configuration creates the following resources:
 1. **Clone and Configure**
    ```bash
    git clone <this-repo>
-   cd aws-devops-agent-terraform
+   cd sample-aws-devops-agent-terraform
    cp terraform.tfvars.example terraform.tfvars
    ```
 
